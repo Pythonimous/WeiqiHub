@@ -102,7 +102,7 @@
   "handicap": "Handicap",
   "help": "Help",
   "rankVisibility": "Rank visibility",
-  "rankVisibilityVisible": "Default",
+  "rankVisibilityVisible": "Visible",
   "rankVisibilityHideRank": "Hide rank information",
   "rankVisibilityFocusMode": "Hide rank info + wins/promotion requirements",
   "helpDialogCollections": "Collections are classic, curated sets of high-quality tasks which hold special value together as a training resource.\n\nThe main goal is to solve a collection with a high success rate. A secondary goal is to solve it as fast as possible.",

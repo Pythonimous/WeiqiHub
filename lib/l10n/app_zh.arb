@@ -95,7 +95,7 @@
   "handicap": "让子数",
   "help": "帮助",
   "rankVisibility": "段位显示",
-  "rankVisibilityVisible": "默认",
+  "rankVisibilityVisible": "可见",
   "rankVisibilityHideRank": "隐藏段位信息",
   "rankVisibilityFocusMode": "隐藏段位信息 + 胜局/晋段要求",
   "helpDialogCollections": "棋书是经典的、精选的高质量题目合集，作为训练资源具有特殊价值。\n\n主要目标是以高成功率解完一本棋书。次要目标是尽可能快地完成。",

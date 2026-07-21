@@ -95,7 +95,7 @@
   "handicap": "Vorgabe",
   "help": "Hilfe",
   "rankVisibility": "Rang-Anzeige",
-  "rankVisibilityVisible": "Standard",
+  "rankVisibilityVisible": "Sichtbar",
   "rankVisibilityHideRank": "Ranginformationen verbergen",
   "rankVisibilityFocusMode": "Ranginfo + Siege/Aufstiegsanforderungen ausblenden",
   "helpDialogCollections": "Kollektionen sind klassische, kuratierte Sets von hochwertigen Aufgaben, die gemeinsam einen besonderen Wert als Trainingsressource bilden.\n\nDas Hauptziel ist es, eine Kollektion mit einer hohen Erfolgsquote zu lösen. Ein Nebenziel ist es, sie so schnell wie möglich zu lösen.",

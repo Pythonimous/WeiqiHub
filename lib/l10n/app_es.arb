@@ -95,7 +95,7 @@
   "handicap": "Handicap",
   "help": "Ayuda",
   "rankVisibility": "Visibilidad del rango",
-  "rankVisibilityVisible": "Predeterminado",
+  "rankVisibilityVisible": "Visible",
   "rankVisibilityHideRank": "Ocultar información del rango",
   "rankVisibilityFocusMode": "Ocultar info de rango + victorias/requisitos de promoción",
   "helpDialogCollections": "Las colecciones son libros clásicos de problemas de alta calidad que tienen un valor especial para el entrenamiento.\n\nEl objectivo principal es resolver una colección con un alto porcentaje de éxito. El objetivo secundario es resolver una colección lo más rápido posible.",
