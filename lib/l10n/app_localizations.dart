@@ -605,7 +605,7 @@ abstract class AppLocalizations {
   /// No description provided for @rankVisibilityVisible.
   ///
   /// In en, this message translates to:
-  /// **'Default'**
+  /// **'Visible'**
   String get rankVisibilityVisible;
 
   /// No description provided for @rankVisibilityHideRank.

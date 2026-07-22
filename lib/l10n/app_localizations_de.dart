@@ -271,7 +271,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get rankVisibility => 'Rang-Anzeige';
 
   @override
-  String get rankVisibilityVisible => 'Standard';
+  String get rankVisibilityVisible => 'Sichtbar';
 
   @override
   String get rankVisibilityHideRank => 'Ranginformationen verbergen';

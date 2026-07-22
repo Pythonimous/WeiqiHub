@@ -270,7 +270,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get rankVisibility => 'Visibilità del grado';
 
   @override
-  String get rankVisibilityVisible => 'Predefinito';
+  String get rankVisibilityVisible => 'Visibile';
 
   @override
   String get rankVisibilityHideRank => 'Nascondi informazioni sul grado';

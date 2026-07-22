@@ -269,7 +269,7 @@ class AppLocalizationsUk extends AppLocalizations {
   String get rankVisibility => 'Відображення рангу';
 
   @override
-  String get rankVisibilityVisible => 'За замовчуванням';
+  String get rankVisibilityVisible => 'Видимий';
 
   @override
   String get rankVisibilityHideRank => 'Приховати інформацію про ранг';

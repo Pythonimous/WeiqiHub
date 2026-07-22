@@ -270,7 +270,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get rankVisibility => 'Отображение ранга';
 
   @override
-  String get rankVisibilityVisible => 'По умолчанию';
+  String get rankVisibilityVisible => 'Видимый';
 
   @override
   String get rankVisibilityHideRank => 'Скрыть сведения о ранге';

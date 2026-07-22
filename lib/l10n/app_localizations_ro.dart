@@ -270,7 +270,7 @@ class AppLocalizationsRo extends AppLocalizations {
   String get rankVisibility => 'Vizibilitatea rangului';
 
   @override
-  String get rankVisibilityVisible => 'Implicit';
+  String get rankVisibilityVisible => 'Vizibil';
 
   @override
   String get rankVisibilityHideRank => 'Ascunde informațiile despre rang';

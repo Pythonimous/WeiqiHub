@@ -261,7 +261,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get rankVisibility => '段位显示';
 
   @override
-  String get rankVisibilityVisible => '默认';
+  String get rankVisibilityVisible => '可见';
 
   @override
   String get rankVisibilityHideRank => '隐藏段位信息';

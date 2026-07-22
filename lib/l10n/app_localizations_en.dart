@@ -269,7 +269,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get rankVisibility => 'Rank visibility';
 
   @override
-  String get rankVisibilityVisible => 'Default';
+  String get rankVisibilityVisible => 'Visible';
 
   @override
   String get rankVisibilityHideRank => 'Hide rank information';
